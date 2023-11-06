@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <!-- bottom navigation -->
+    <string name="nav_photo">Photo</string>
+    <string name="nav_favorite">Favorite</string>
+</resources>
